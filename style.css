@@ -1,0 +1,22 @@
+div{
+    font-family: 'Shadows Into Light', cursive;
+    background-image: linear-gradient(to right bottom,
+    rgba(254, 171, 94, 0.726),
+    rgba(199, 121, 208, 0.726),
+    rgba(75, 192, 200, 0.726)), 
+    url(media/beach.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+
+ img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+   
+
+
